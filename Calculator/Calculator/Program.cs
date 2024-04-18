@@ -7,7 +7,7 @@
     {
         static void Main(string[] args)
         {
-            // test
+            // test 2
             Console.WriteLine("Enter first number: ");
             double num1 = double.Parse(Console.ReadLine());
 
