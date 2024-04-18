@@ -1,7 +1,7 @@
 ﻿namespace Calculator
 {
     /// <summary>
-    /// *CALCULATOR V.1
+    /// CALCULATOR V.1
     /// </summary>
     internal class Program
     {
