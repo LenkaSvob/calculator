@@ -7,9 +7,10 @@
     {
         static void Main(string[] args)
         {
+            // test
             Console.WriteLine("Enter first number: ");
             double num1 = double.Parse(Console.ReadLine());
-
+            
             Console.WriteLine("Enter mathematical operator; for addition (+), for subtraction (-), multiplication (*), division(/): ");
             string @operator = Console.ReadLine();
 
